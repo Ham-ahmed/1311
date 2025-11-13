@@ -13,12 +13,12 @@ NC='\033[0m' # No Color
 
 echo -e "${CYAN}"
 echo "################################################################"
-echo "#        Start downloading and installing  estalker_1.22       #"
+echo "#        Start downloading and installing  estalker_1.23       #"
 echo "################################################################"
 echo -e "${NC}"
 
-IPK_URL="https://raw.githubusercontent.com/Ham-ahmed/1311/refs/heads/main/enigma2-plugin-extensions-estalker_1.22.20251110_all.ipk"
-IPK_NAME="enigma2-plugin-extensions-estalker_1.22.20251110_all.ipk"
+IPK_URL="https://raw.githubusercontent.com/Ham-ahmed/1311/refs/heads/main/enigma2-plugin-extensions-estalker_1.23.20251111_all.ipk"
+IPK_NAME="enigma2-plugin-extensions-estalker_1.23.20251111_all.ipk"
 IPK_PATH="/var/volatile/tmp/$IPK_NAME"
 
 echo -e "${YELLOW}Downloading the ServiceScanUpdates...${NC}"
